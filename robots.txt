@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://orioyuyeey.stuyhs.com/sitemap.xml
